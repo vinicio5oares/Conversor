@@ -6,7 +6,7 @@ from src.conversor.ocr import fazer_ocr
 
 
 # Caminho da imagem de teste
-imagem_path = Path("entrada/teste1.jpeg")
+imagem_path = Path("entrada/teste2.jpeg")
 
 
 # Abre a imagem
