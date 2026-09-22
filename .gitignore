@@ -1,1 +1,12 @@
+# Ambiente virtual
 .venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de teste
+.pytest_cache/
+
+# Arquivos gerados pelo conversor
+saida/
